@@ -1,0 +1,5 @@
+#Dato curioso sobre mi
+
+A pesar de que estudié ingeniería civil, siempre quise estudiar algo relacionado a
+arquitectura. Aunque viéndolo en perspectiva, si no hubiera estudiado ingeniería 
+civil, tal vez no me encontraría estudiando un bootcamp de análisis de datos.
